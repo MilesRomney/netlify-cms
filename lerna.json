@@ -6,12 +6,12 @@
   "useWorkspaces": true,
   "loglevel": "success",
   "command": {
-    "version": {
-      "allowBranch": "master",
+    "publish": {
+      "message": "chore(packages): release",
       "conventionalCommits": true,
-      "preid": "beta",
-      "gitRemote": "upstream",
-      "message": "chore(release): publish"
+      "npmClient": "npm",
+      "registry": "https://npm.pkg.maststudio.org/",
+      "verifyAccess": false
     }
   },
   "ignoreChanges": [
