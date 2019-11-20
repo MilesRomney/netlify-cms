@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.13.0-beta.7](https://github.com/netlify/netlify-cms/tree/master/packages/netlify-cms-core/compare/netlify-cms-core@2.13.0-beta.6...netlify-cms-core@2.13.0-beta.7) (2019-11-20)
+
+
+### Bug Fixes
+
+* **media-libs:** accept string or string array for insertMedia action ([#2857](https://github.com/netlify/netlify-cms/tree/master/packages/netlify-cms-core/issues/2857)) ([a6b2fac](https://github.com/netlify/netlify-cms/tree/master/packages/netlify-cms-core/commit/a6b2facdae3beb8b0a05ad11c96d884d830b824e))
+
+
+### Features
+
+* add translation support ([#2870](https://github.com/netlify/netlify-cms/tree/master/packages/netlify-cms-core/issues/2870)) ([9ff04e1](https://github.com/netlify/netlify-cms/tree/master/packages/netlify-cms-core/commit/9ff04e11f9251a9f328e9a8dc935c50f3d5aceca)), closes [#2877](https://github.com/netlify/netlify-cms/tree/master/packages/netlify-cms-core/issues/2877)
+* commit media with post ([#2851](https://github.com/netlify/netlify-cms/tree/master/packages/netlify-cms-core/issues/2851)) ([f6622b0](https://github.com/netlify/netlify-cms/tree/master/packages/netlify-cms-core/commit/f6622b099986b721cdc783f2e7675bd79758a34c))
+
+
+
+
+
 # [2.13.0-beta.6](https://github.com/netlify/netlify-cms/tree/master/packages/netlify-cms-core/compare/netlify-cms-core@2.13.0-beta.5...netlify-cms-core@2.13.0-beta.6) (2019-11-18)
 
 
